@@ -39,11 +39,14 @@ body {
     letter-spacing: 1px;
 }
 
+
+
+
 #aboutMeSection {
     padding-bottom: 40px;
     background-color: #fffffa;
-    margin-bottom: 40px;
-    margin-top: 25px;
+    padding-bottom: 40px;
+    padding-top: 25px;
 }
 
 #aboutMeSection div.page-header {
@@ -59,8 +62,19 @@ body {
     font-size: 16px;
 }
 
+#aboutMeSection a.backTop {
+    color: black;
+    font-size: 11px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
 #portfolioSection {
     background-color: #283857;
+    padding-bottom: 40px;
+    padding-top: 25px;
 }
 
 #portfolioSection div.page-header {
@@ -85,12 +99,20 @@ body {
 
 #portfolioSection a {
     color: black;
-    padding: 10px;
 }
+
+#portfolioSection a.backTop {
+    color: #fffffa;
+    font-size: 11px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
 
 #contactSection {
     background-color: #fffffa;
-    margin-bottom: 30px;
+    padding-bottom: 30px;
+    padding-top: 25px;
 }
 
 #contactSection div.page-header {
@@ -109,4 +131,10 @@ body {
 
 #contactSection a {
     color: black;
+}
+
+#contactSection a.backTop {
+    color: black;
+    font-size: 11px;
+    font-family: 'Roboto', sans-serif;
 }
