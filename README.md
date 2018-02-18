@@ -1,3 +1,3 @@
-# PersonalPortfolio
+Learn more about me and my work history but visiting my [personal portfolio](https://bermessa.github.io/Portfolio/)!
 
-https://bermessa.github.io/Portfolio/index.html
+Feel free to reach out and say hi :smile:
