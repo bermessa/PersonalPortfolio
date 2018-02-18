@@ -55,10 +55,8 @@ body {
     font-family: 'Lobster Two', cursive;
 }
 
-#aboutMeSection p {
+#aboutMeSection h4 {
     font-family: 'Roboto', sans-serif;
-    font-size: larger;
-    line-height: 1.2;
 }
 
 #aboutMeSection a.backTop {
@@ -139,11 +137,4 @@ body {
 #contactSection row {
     align-items: center;
     display: flex;
-}
-
-@media screen and (max-width: 900px) {
-    #aboutMeSection p {
-        font-size: x-large;
-        line-height: .9;
-    }
 }
